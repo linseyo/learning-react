@@ -5,7 +5,7 @@ Two and a half day challenge created by Seattle Dev Bootcamp Instructors to teac
 ## Description:
 Students were asked to come up with an "idea" for the backend and produce it using React.js. There were no constraints aside from only being able to work on the front-end using React.js 
 
-React was taught by Paul O'Shannesy who is one of the developers who worked on React at Facebook. This assignment was a part of a 2.5 day learning session of React. 
+React was taught by Paul O'Shannesy who is one of the developers who worked on React at Facebook for 2 hours. This assignment was a part of a 2.5 day learning session of React. 
 
 ## Key Technologies: 
 - React.js
